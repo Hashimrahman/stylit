@@ -1250,7 +1250,7 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
   width: auto;
   height: auto;
   font-size: 80px;
-  color: rgba(244, 0, 0, 0.3);
+  color: #c3c4c8;
   position: absolute;
   opacity: 0;
   
@@ -1996,7 +1996,7 @@ input.num-product::-webkit-inner-spin-button {
 }
 
 .block1-txt {
-  background-color: rgba(103,117,214,0.0);
+  background-color: rgba(13, 38, 201, 0);
 }
 
 /*---------------------------------------------*/
@@ -2024,7 +2024,7 @@ input.num-product::-webkit-inner-spin-button {
 
 /*---------------------------------------------*/
 .block1-txt:hover {
-  background-color: rgba(103,117,214,0.8);
+  background-color: rgba(103, 118, 214, 0);
 }
 
 .block1-txt:hover .block1-txt-child2 {
@@ -2035,7 +2035,7 @@ input.num-product::-webkit-inner-spin-button {
   transform: scaleX(1);
 }
 
-.block1-txt:hover .block1-link {
+.block1-txt:hover block1-link {
   -webkit-transform: translateY(0%);
   -moz-transform: translateY(0%);
   -ms-transform: translateY(0%);
