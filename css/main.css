@@ -2128,7 +2128,9 @@ input.num-product::-webkit-inner-spin-button {
 }
 
 
-
+.price{
+  display: flex;
+}
 /*==================================================================
     TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 ==================================================================*/
@@ -2251,6 +2253,29 @@ input.num-product::-webkit-inner-spin-button {
   font-family: Poppins-Light;
   font-size: 15px;
   line-height: 1.666667;
+}
+
+.stext-118 {
+  font-family: Poppins-Regular;
+  font-size: 13px;
+  line-height: 1.466667;
+  opacity: 60%;
+}
+.stext-119 {
+  font-family: Poppins-Regular;
+  font-size: 14px;
+  line-height: 1.466667;
+  letter-spacing: 1px;
+  font-weight: 600;
+}
+
+.stext-120 {
+  font-family: Poppins-Regular;
+  font-size: 14px;
+  color: rgb(0, 248, 0);
+  line-height: 1.466667;
+  letter-spacing: 1px;
+  font-weight: 600;
 }
 
 
